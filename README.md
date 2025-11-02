@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hola a todos! 👋
+Soy Antonio Gutiérrez, estudiante de primer curso de Diseño de Aplicaciones Web en Jacarilla (Alicante).
+Estoy aprendiendo a utilizar GitHub!
+
 
 <!--
 **tonigstm96/tonigstm96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
