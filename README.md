@@ -1,6 +1,6 @@
 ## Hola a todos! 👋
 Soy Antonio Gutiérrez, estudiante de primer curso de Diseño de Aplicaciones Web en Jacarilla (Alicante).
-Estoy aprendiendo a utilizar GitHub!
+## Estoy aprendiendo a utilizar GitHub!
 
 
 <!--
