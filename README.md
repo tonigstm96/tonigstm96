@@ -1,6 +1,5 @@
 ## Hola a todos! 👋
 Soy Antonio Gutiérrez, estudiante de primer curso de Diseño de Aplicaciones Web en Jacarilla (Alicante).
-De momento solo estoy usando los repos para pasar mi trabajo de un ordenador a otro. 
 
 
 <!--
