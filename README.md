@@ -3,7 +3,7 @@
 > 🖥️ `root@tonidev:~$ ./whoami`
 
 Estudiante de **Desarrollo de Aplicaciones Web** con un background en **Trabajo Social y Mediación**.
-Me encanta la programación con y estoy inmerso en el *Self-Hosting* y el trasteo con servidores.
+Me encanta la programación y estoy inmerso en el *Self-Hosting* y el trasteo con servidores.
 
 ```java
 public class ToniProfile extends Developer {
