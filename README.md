@@ -1,6 +1,6 @@
 <div align="center">
 
-# ¡Hola! Soy Antonio Gutiérrez (ToniDev) 👋
+# ¡Hola! Soy Antonio Gutiérrez (ToniDev) 
 
 ### 🎓 Estudiante de DAW (1º Curso) | 🤝 Mediador & Trabajador Social
 
@@ -19,8 +19,12 @@
 <br/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
 <img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
+
+<br/>
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
 </div>
 
@@ -38,7 +42,7 @@
 
 ### 🏠 Homelab & Hobbies
 
-¡No solo es código! Aquí es donde paso mi tiempo libre:
+Aquí es donde paso mi tiempo libre:
 
 | Categoría | Intereses |
 | :--- | :--- |
@@ -52,7 +56,7 @@
 ### 📊 Mis Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tonigstm96&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=tonigstm96&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonigstm96&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
 </div>
 
