@@ -55,15 +55,9 @@ Aquí es donde paso mi tiempo libre:
 
 ### 📊 Mis Estadísticas de GitHub
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonigstm96&theme=radical&hide_border=true" alt="GitHub Streak" />
-  
-  <br/>
-  
+<div align="center"> 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tonigstm96&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  
-  <br/>
-  
+  <br/> 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tonigstm96&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </div>
 
