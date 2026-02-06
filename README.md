@@ -1,18 +1,37 @@
-## Hola a todos! 👋
-Soy Antonio Gutiérrez, estudiante de primer curso de Diseño de Aplicaciones Web en Jacarilla (Alicante).
+# Antonio Gutiérrez (ToniDev)
 
+> 🖥️ `root@tonidev:~$ ./whoami`
 
-<!--
-**tonigstm96/tonigstm96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **Desarrollo de Aplicaciones Web** con un background en **Trabajo Social y Mediación**.
+Me encanta la programación con y estoy inmerso en el *Self-Hosting* y el trasteo con servidores.
 
-Here are some ideas to get you started:
+```java
+public class ToniProfile extends Developer {
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    // 👤 Información Personal
+    String name = "Antonio Gutiérrez";
+    int age = 29;
+    String location = "Orihuela, Alicante (España)";
+    
+    // 🎓 Background & Estudios
+    String[] education = {
+        "Desarrollo de Aplicaciones Web (1º Curso)",
+        "Master en Mediación - Universidad de Murcia",
+        "Trabajador Social - Universidad de Murcia",
+    };
+
+    // 🛠️ Tech Stack (Armamento)
+    String[] languages = {"Java (Main)", "HTML/CSS", "MySQL"};
+    String[] learningNow = {"JavaScript", "Docker Containers"};
+    String[] futureGoals = {"Godot Engine", "Advanced Backend"};
+
+    // 🏠 Homelab & Hobbies
+    boolean hasHomelab = true; // Me encanta trastear con mi homelab!
+    String[] passions = {
+        "Programación",
+        "Desplegar servicios en Docker",
+        "Gaming (por supuesto)",
+        "Airsoft!",
+        "Unas partiditas de MTG"
+    };
+}
