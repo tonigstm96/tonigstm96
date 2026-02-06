@@ -38,7 +38,7 @@
 * 🌱 **Aprendiendo:** JavaScript a fondo y despliegue de servicios.
 * 🎮 **Objetivo personal:** Crear mi propio juego en Godot.
 
-![Monkey](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDN3c3Y5eW5wcjlsN2puemp1Zjc2dnBsaHZmMXI4OTltcXlnNzk1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QNFhOolVeCzPQ2Mx85/giphy.gif)
+![Monete](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDN3c3Y5eW5wcjlsN2puemp1Zjc2dnBsaHZmMXI4OTltcXlnNzk1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QNFhOolVeCzPQ2Mx85/giphy.gif)
 
 ---
 
